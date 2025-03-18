@@ -65,5 +65,3 @@ Clone the repository and configure the docker and config.yaml files accordingly
   **Hosted**
   - This has been hosted to collect data at render.
     ![Deployed Image](Images/Deployed.png)
-  - To connect to render psql database run-
-  - `PGPASSWORD=fJomBjck74yooAnOeqdZF7hUbhAOXndl psql -h dpg-cqru6ndumphs73cqo98g-a.oregon-postgres.render.com -U abhishek youtube_videos_lf49`
